@@ -6,11 +6,11 @@
 
 Исходное изображение (черно-белая шахматная доска)
 
-![title](../HPCLabs/Harris_algorithm/chess.jpg)
+![alt_text](https://github.com/vladmirkulov13/HPCLabs/blob/main/Harris_algorithm/chess.jpg?raw=true)
 
 Результат применения алгоритма
 
-![title](../HPCLabs/Harris_algorithm/chess_gpu.png)
+![alt_text](https://github.com/vladmirkulov13/HPCLabs/blob/main/Harris_algorithm/chess_gpu.png?raw=true)
 
 Таблица сравнения времени выполнения
 
